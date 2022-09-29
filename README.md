@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdazey86
+- 👋 Hi, I’m @Josh Dazey
 - 👀 I’m interested in ... Computer Science, Software Engineering and Game Devleopment.
 - 🌱 I’m currently learning ... C++ in depth, Computer Organization & Architecture, and low-level Statistics. 
 - 💞️ I’m looking to collaborate on ... Anything! I'm still a student so with time my skills will get better to take on harder challenges.
